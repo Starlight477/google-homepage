@@ -1,0 +1,109 @@
+body{
+    font-size: small;
+    font-family: arial,sans-serif;
+    color: #222;
+}
+
+img{
+    margin-top: 190px;
+}
+
+input[type=text] {
+    width: 500px;
+    height:45px;
+    border: 1px solid #F2F2F2;
+    border-radius: 25px;
+    margin-top: 30px;
+}
+
+input[type=text]:hover {
+    border: 3px solid darkslategray;
+}
+
+button{
+    margin-top: 25px;
+    height: 35px;
+    color:#777;
+    font-size: 26px;
+}
+
+footer{
+    bottom: 0;
+    background-color:#F2F2F2;
+    margin-top: 130px;
+    font-size: 10pt;
+    position: absolute;
+    width: 100%;
+    height: 35px;
+}
+.verdura{
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+}
+
+.todito{
+    background: #f2f2f2;
+    line-height: 40px;
+    min-width: 980px;
+    border-top: 1px solid #e4e4e4;
+}
+.mm{
+    margin-left:30px;
+    text-align: left;
+    color:rgba(0,0,0,.54);
+    font-size: 15px;
+}
+
+.mex{
+    font-size: 15px;
+    text-align: left;
+    color: rgba(0, 0, 0, .54);
+    padding-left: 27px;
+}
+
+
+a{
+    padding: 8px;
+    background-color: #F2F2F2;
+}
+
+.izq{
+    padding-left: 27px;
+    text-decoration: none;
+    color:rgba(0,0,0,.54);
+}
+
+.elmenu{
+    white-space: nowrap;
+    padding-left: 27px;
+    color: rgba(0, 0, 0, .54);
+}
+
+.der{
+    padding-left: 27px;
+    color:rgba(0,0,0,.54);
+}
+
+#derd{
+    float: right;
+    white-space: nowrap;
+}
+
+.todito{
+    font-size: 13px;
+    margin-left: -27px;
+}
+
+.tercero{
+    border-bottom: 1px solid #e4e4e4;
+}
+
+.der:hover{
+    color:rgba(0,0,0,.54);
+}
+
+.izq:hover{
+    color:rgba(0,0,0,.54);
+}
